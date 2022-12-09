@@ -18,13 +18,12 @@
   - [x] security_events 
 
 ## 2. 下载 picgo-code
-> 在typora上选择下载 picgo-code (command line)
+> 在typora编辑器-->文件-->偏好设置-->图像-->上传服务-->选择 `Picgo-Code (command line)`-->下载或更新
 > 
 > 下载路径在 `C:\Users\Dennis\AppData\Roaming\Typora\picgo\win64`
 
 ## 3. 初始化图床
-在picgoan安装路径打开cmd执行命令`./picgo.exe use`
-
+在`picgo`安装路径打开cmd
 ```
 PS C:\Users\Dennis\AppData\Roaming\Typora\picgo\win64> .\picgo.exe use
 ? Use an uploader github
@@ -65,6 +64,8 @@ PS C:\Users\Dennis\AppData\Roaming\Typora\picgo\win64> .\picgo.exe set uploader
   "picgoPlugins": {}
 }
 ```
+## 5.测试配置结果
+在第2步中点击`验证图片上传选项`，若提示成功即可
 
 # 添加/更换图床
 操作上面3，4步骤
