@@ -4,8 +4,6 @@
 # 搭建方法
 [https://picgo.github.io/PicGo-Core-Doc/zh/guide/config.html](https://picgo.github.io/PicGo-Core-Doc/zh/guide/config.html)
 
-**PS：需要科学上网才能打开**
-
 # 安装操作说明
 ## 1. 添加 github token
 > 右上角-->Settings-->Developer settings-->Personal access tokens-->Tokens(classic)-->Generate new token-->Generate new token (classic)
